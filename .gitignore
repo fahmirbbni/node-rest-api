@@ -1,0 +1,13 @@
+#dependencies
+/node_modules
+
+#testing
+/voverage
+
+#production
+/build
+/dist
+
+#misc
+DS_Store
+.package-lock.json
